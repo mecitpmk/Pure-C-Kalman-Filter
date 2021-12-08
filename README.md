@@ -2,6 +2,7 @@
 
 This repo, based on https://github.com/TKJElectronics/KalmanFilter
 
+##You can use this repo in your Real Embedded Systems. It's coded with Pure C.
 
 In this repo, I'll try to based on macro expansion (preprocessor) to make the program much more faster and memory optimized.
 
